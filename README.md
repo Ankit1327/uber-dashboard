@@ -44,11 +44,6 @@ The dataset includes:
 
 ---
 
-## 📸 Dashboard Preview
-(Add screenshots here after uploading images to GitHub)
-
----
-
 ## ⚙️ Features
 - Interactive filters & slicers
 - Dynamic KPI cards
